@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XGetoptTest", "XGetoptTest.vcxproj", "{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Unicode Debug|x86 = Unicode Debug|x86
+		Unicode Release|x86 = Unicode Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Debug|x86.Build.0 = Debug|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Release|x86.ActiveCfg = Release|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Release|x86.Build.0 = Release|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Unicode Debug|x86.ActiveCfg = Unicode Debug|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Unicode Debug|x86.Build.0 = Unicode Debug|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Unicode Release|x86.ActiveCfg = Unicode Release|Win32
+		{5A2EAA74-6CEC-4010-BC53-DCE4ABDFF7D8}.Unicode Release|x86.Build.0 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C246759-5005-4161-98F3-1770EF95E448}
+	EndGlobalSection
+EndGlobal
